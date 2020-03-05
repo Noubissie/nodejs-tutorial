@@ -4,3 +4,6 @@
 ### process.env.PORT = ....
 ### export PORT=..... (MAC)
 ### set PORT = .....(WINDOWS)
+## POSTMAN
+### chrome://apps
+### chrome://version
